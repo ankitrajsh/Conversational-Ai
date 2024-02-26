@@ -79,7 +79,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Project Maintainer**: Ankit Sharma
 - **Email**: ankitraj.84060@gmail.com
-- **LinkedIn**: [Your LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/ankitrajsh/))
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/ankitrajsh/)
 
 ## Acknowledgments
 
