@@ -1,6 +1,5 @@
 For a project focused on Conversational AI, here's a template for a README file that you can use. Adjust the details as needed before adding it to your project.
 
-```markdown
 # Conversational AI Project
 
 This repository is dedicated to the development and implementation of a Conversational AI system using cutting-edge technologies. The project aims to create a responsive, intelligent chatbot that can understand and process natural language, providing users with information, support, and interaction in a conversational manner.
@@ -39,7 +38,7 @@ The Conversational AI project leverages machine learning, natural language proce
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/conversational-ai-project.git
-   ```
+
 2. Navigate to the project directory:
    ```bash
    cd conversational-ai-project
