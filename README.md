@@ -69,17 +69,17 @@ We welcome contributions from the community! If you would like to contribute, pl
 3. Commit your changes with a clear description.
 4. Push the branch and submit a pull request.
 
-For more detailed information, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+For more detailed information, please refer to the [CONTRIBUTING.md] file.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 ## Contact
 
 - **Project Maintainer**: Ankit Sharma
 - **Email**: ankitraj.84060@gmail.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/ankitrajsh/)
+- **LinkedIn**: [Ankit Sharma](https://www.linkedin.com/in/ankitrajsh/)
 
 ## Acknowledgments
 
