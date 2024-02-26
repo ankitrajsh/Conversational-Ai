@@ -77,9 +77,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Project Maintainer**: [Your Name]
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- **Project Maintainer**: Ankit Sharma
+- **Email**: ankitraj.84060@gmail.com
+- **LinkedIn**: [Your LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/ankitrajsh/))
 
 ## Acknowledgments
 
